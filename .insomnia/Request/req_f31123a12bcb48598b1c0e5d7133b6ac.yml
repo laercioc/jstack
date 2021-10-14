@@ -1,0 +1,31 @@
+_id: req_f31123a12bcb48598b1c0e5d7133b6ac
+type: Request
+parentId: fld_a1866f0bb5ab4f2da3b920493b7f08c2
+modified: 1634175276815
+created: 1634159985063
+url: "{{baseUrl}}/contacts"
+name: Create Contacts
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "name":  "to delete",
+        "email": "delete@mail.com",
+        "phone":  "82998315678"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1eeb8cbcbd23409f8782273f3e2dd7b2
+authentication: {}
+metaSortKey: -1634081029583
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

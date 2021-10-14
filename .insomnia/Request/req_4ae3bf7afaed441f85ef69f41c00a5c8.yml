@@ -1,0 +1,21 @@
+_id: req_4ae3bf7afaed441f85ef69f41c00a5c8
+type: Request
+parentId: fld_11ef00cdff5843fd987d374683c9a9ba
+modified: 1634176165357
+created: 1634176027406
+url: "{{baseUrl}}/categories/5e3ce747-f65b-4c3a-bf94-3d8b354ef593"
+name: Find Categories
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1634081029608
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,31 @@
+_id: req_1d2f9775fd574fbd9bebe852c92e69a1
+type: Request
+parentId: fld_a1866f0bb5ab4f2da3b920493b7f08c2
+modified: 1634174713199
+created: 1634159985066
+url: "{{baseUrl}}/contacts"
+name: List Contacts
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters:
+  - id: pair_2f088531b922460a8572aac42c667919
+    name: orderBy
+    value: DESC
+    description: ""
+    disabled: false
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_f426556a233149ccb9864da46a9129c5
+authentication: {}
+metaSortKey: -1634081029658
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

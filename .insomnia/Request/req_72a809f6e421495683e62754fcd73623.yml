@@ -1,0 +1,29 @@
+_id: req_72a809f6e421495683e62754fcd73623
+type: Request
+parentId: fld_722f616d41844f71969929bc22b5d9f9
+modified: 1634081335663
+created: 1634081029508
+url: http://localhost:3000/users/1
+name: Update User
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Mateus"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_29407dce58b44e53b27bcb1b2663e1c0
+authentication: {}
+metaSortKey: -1634081029508
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

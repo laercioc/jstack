@@ -1,0 +1,21 @@
+_id: req_a7e155c40177418395642a5a97f900e6
+type: Request
+parentId: fld_a1866f0bb5ab4f2da3b920493b7f08c2
+modified: 1634175291705
+created: 1634159985069
+url: "{{baseUrl}}/contacts/dcd22a94-f6a5-4d38-bb38-d6ab23def9bf"
+name: Delete Contacts
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1634081029558
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

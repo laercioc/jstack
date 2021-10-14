@@ -1,0 +1,31 @@
+_id: req_f12687ce874b406888419075b87e3e9b
+type: Request
+parentId: fld_a1866f0bb5ab4f2da3b920493b7f08c2
+modified: 1634176352564
+created: 1634159985070
+url: "{{baseUrl}}/contacts/d79c1c3e-49cc-4871-b469-3b2c1cd0ae64"
+name: Update Contacts
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "name":  "Joao",
+        "email": "joao@mail.com",
+    		"category_id": "9890bd80-8b09-46c9-9a4d-d9a4ae4ebe07"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_29407dce58b44e53b27bcb1b2663e1c0
+authentication: {}
+metaSortKey: -1634081029570.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

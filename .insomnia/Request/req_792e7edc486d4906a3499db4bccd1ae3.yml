@@ -1,0 +1,31 @@
+_id: req_792e7edc486d4906a3499db4bccd1ae3
+type: Request
+parentId: fld_11ef00cdff5843fd987d374683c9a9ba
+modified: 1634176144476
+created: 1634176027405
+url: "{{baseUrl}}/categories"
+name: List Categories
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters:
+  - id: pair_2f088531b922460a8572aac42c667919
+    name: orderBy
+    value: ASC
+    description: ""
+    disabled: false
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_f426556a233149ccb9864da46a9129c5
+authentication: {}
+metaSortKey: -1634081029658
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

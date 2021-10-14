@@ -1,0 +1,21 @@
+_id: req_6acd5d3b0b0c47edb75f820a7b9deb2d
+type: Request
+parentId: fld_722f616d41844f71969929bc22b5d9f9
+modified: 1634080365917
+created: 1634080358945
+url: http://localhost:3000/users/5
+name: FInd User
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1634080358945
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

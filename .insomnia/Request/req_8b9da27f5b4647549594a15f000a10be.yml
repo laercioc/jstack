@@ -1,0 +1,29 @@
+_id: req_8b9da27f5b4647549594a15f000a10be
+type: Request
+parentId: fld_11ef00cdff5843fd987d374683c9a9ba
+modified: 1634176318963
+created: 1634176027402
+url: "{{baseUrl}}/categories"
+name: Create Categories
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "name":  "Linkedin"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1eeb8cbcbd23409f8782273f3e2dd7b2
+authentication: {}
+metaSortKey: -1634081029583
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

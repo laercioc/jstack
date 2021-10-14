@@ -1,0 +1,29 @@
+_id: req_def923dcec2e4e1a93e795254b44a933
+type: Request
+parentId: fld_722f616d41844f71969929bc22b5d9f9
+modified: 1634080332152
+created: 1634079987081
+url: http://localhost:3000/users
+name: Create User
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Pedro"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1eeb8cbcbd23409f8782273f3e2dd7b2
+authentication: {}
+metaSortKey: -1634079987081
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

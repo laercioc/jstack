@@ -1,0 +1,31 @@
+_id: req_89179544610b48dd945390219a4e02e7
+type: Request
+parentId: fld_722f616d41844f71969929bc22b5d9f9
+modified: 1634081070663
+created: 1634080342771
+url: http://localhost:3000/users
+name: List users
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters:
+  - id: pair_2f088531b922460a8572aac42c667919
+    name: order
+    value: desc
+    description: ""
+    disabled: false
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_f426556a233149ccb9864da46a9129c5
+authentication: {}
+metaSortKey: -1634080342771
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_f6352e4580d34396ac29dce6c63a81b1
+type: Request
+parentId: fld_a1866f0bb5ab4f2da3b920493b7f08c2
+modified: 1634177674706
+created: 1634159985068
+url: "{{baseUrl}}/contacts/d79c1c3e-49cc-4871-b469-3b2c1cd0ae64"
+name: Find Contacts
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1634081029608
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

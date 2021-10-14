@@ -1,0 +1,29 @@
+_id: req_670a5179b401424dbbdb74ae602ab091
+type: Request
+parentId: fld_11ef00cdff5843fd987d374683c9a9ba
+modified: 1634176288623
+created: 1634176027410
+url: "{{baseUrl}}/categories/5e3ce747-f65b-4c3a-bf94-3d8b354ef593"
+name: Update Categories
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "name":  "Linkedin"
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_29407dce58b44e53b27bcb1b2663e1c0
+authentication: {}
+metaSortKey: -1634081029570.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
